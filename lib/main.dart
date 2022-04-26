@@ -53,7 +53,7 @@ class MyHomePage extends StatelessWidget {
               ),
             ),
             ListTile(
-              title: Text('Alumno 3'),
+              title: Text('Alumno 1'),
               onTap: () {
                 // Actualiza el estado de la aplicación
                 // ...
